@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## This is Jahangir Ripon
+# I am a full stack web developer specializing mostly in PHP/Laravel but also work with JavaScript, WordPress, Vue & Angular.
+
 <!--
 **jahangirripon/jahangirripon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
